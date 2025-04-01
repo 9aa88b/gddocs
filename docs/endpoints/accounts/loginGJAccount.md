@@ -8,7 +8,7 @@
 | :--------- | :---------------------------------------------------------------------------------------------------- | :------- |
 | `udid`     | [The user's Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) | `False`  |
 | `userName` | The username for the account the player is trying to log into                                         | `False`  |
-| `password` | The plaintext password for the account the player is trying to log into                               | `False`  |
+| `gjp2`     | The password for the account the player is trying to log into, using the GJP2 format.                               | `False`  |
 | `sID`      | The player's steam ID                                                                                 | `True`   |
 | `secret`   | Account Secret: `Wmfv3899gc9`                                                                         | `False`  |
 
